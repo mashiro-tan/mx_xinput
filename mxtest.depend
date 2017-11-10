@@ -1,0 +1,291 @@
+# depslib dependency file v1.0
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal.c
+	"stm32f1xx_hal.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal.h
+	"stm32f1xx_hal_conf.h"
+
+1509570998 d:\stm32\mxtest\123text\mxtest\inc\stm32f1xx_hal_conf.h
+	"main.h"
+	"stm32f1xx_hal_rcc.h"
+	"stm32f1xx_hal_gpio.h"
+	"stm32f1xx_hal_dma.h"
+	"stm32f1xx_hal_eth.h"
+	"stm32f1xx_hal_can.h"
+	"stm32f1xx_hal_cec.h"
+	"stm32f1xx_hal_cortex.h"
+	"stm32f1xx_hal_adc.h"
+	"stm32f1xx_hal_crc.h"
+	"stm32f1xx_hal_dac.h"
+	"stm32f1xx_hal_flash.h"
+	"stm32f1xx_hal_sram.h"
+	"stm32f1xx_hal_nor.h"
+	"stm32f1xx_hal_i2c.h"
+	"stm32f1xx_hal_i2s.h"
+	"stm32f1xx_hal_iwdg.h"
+	"stm32f1xx_hal_pwr.h"
+	"stm32f1xx_hal_rtc.h"
+	"stm32f1xx_hal_pccard.h"
+	"stm32f1xx_hal_sd.h"
+	"stm32f1xx_hal_mmc.h"
+	"stm32f1xx_hal_nand.h"
+	"stm32f1xx_hal_spi.h"
+	"stm32f1xx_hal_tim.h"
+	"stm32f1xx_hal_uart.h"
+	"stm32f1xx_hal_usart.h"
+	"stm32f1xx_hal_irda.h"
+	"stm32f1xx_hal_smartcard.h"
+	"stm32f1xx_hal_wwdg.h"
+	"stm32f1xx_hal_pcd.h"
+	"stm32f1xx_hal_hcd.h"
+
+1509570998 d:\stm32\mxtest\123text\mxtest\inc\main.h
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_rcc.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_rcc_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_def.h
+	"stm32f1xx.h"
+	"Legacy/stm32_hal_legacy.h"
+	<stdio.h>
+
+1509571315 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\device\st\stm32f1xx\include\stm32f1xx.h
+	"stm32f100xb.h"
+	"stm32f100xe.h"
+	"stm32f101x6.h"
+	"stm32f101xb.h"
+	"stm32f101xe.h"
+	"stm32f101xg.h"
+	"stm32f102x6.h"
+	"stm32f102xb.h"
+	"stm32f103x6.h"
+	"stm32f103xb.h"
+	"stm32f103xe.h"
+	"stm32f103xg.h"
+	"stm32f105xc.h"
+	"stm32f107xc.h"
+	"stm32f1xx_hal.h"
+
+1507497312 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\device\st\stm32f1xx\include\stm32f103x6.h
+	"core_cm3.h"
+	"system_stm32f1xx.h"
+	<stdint.h>
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\core_cm3.h
+	<stdint.h>
+	"core_cmInstr.h"
+	"core_cmFunc.h"
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\core_cminstr.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\cmsis_armcc.h
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\cmsis_armcc_v6.h
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\cmsis_gcc.h
+
+1507497314 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\include\core_cmfunc.h
+	"cmsis_armcc.h"
+	"cmsis_armcc_V6.h"
+	"cmsis_gcc.h"
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+	<cmsis_csm.h>
+
+1507497313 d:\stm32\mxtest\123text\mxtest\drivers\cmsis\device\st\stm32f1xx\include\system_stm32f1xx.h
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\legacy\stm32_hal_legacy.h
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_rcc_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_gpio.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_gpio_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_gpio_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_dma.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_dma_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_dma_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_cortex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_flash.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_flash_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_flash_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pwr.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_tim.h
+	"stm32f1xx_hal_def.h"
+	"stm32f1xx_hal_tim_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_tim_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pcd.h
+	"stm32f1xx_ll_usb.h"
+	"stm32f1xx_hal_pcd_ex.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_ll_usb.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\inc\stm32f1xx_hal_pcd_ex.h
+	"stm32f1xx_hal_def.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_cortex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_dma.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_flash.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_flash_ex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_gpio.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_gpio_ex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pcd.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pcd_ex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_pwr.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_rcc.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_rcc_ex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_tim.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_hal_tim_ex.c
+	"stm32f1xx_hal.h"
+
+1507497315 source:d:\stm32\mxtest\123text\mxtest\drivers\stm32f1xx_hal_driver\src\stm32f1xx_ll_usb.c
+	"stm32f1xx_hal.h"
+
+1509639980 source:d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\class\customhid\src\usbd_customhid.c
+	"usbd_customhid.h"
+	"usbd_desc.h"
+	"usbd_ctlreq.h"
+
+1509641269 d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\class\customhid\inc\usbd_customhid.h
+	"usbd_ioreq.h"
+
+1507497317 d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\inc\usbd_ioreq.h
+	"usbd_def.h"
+	"usbd_core.h"
+
+1507497317 d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\inc\usbd_def.h
+	"usbd_conf.h"
+
+1509641269 d:\stm32\mxtest\123text\mxtest\inc\usbd_conf.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+	"usbd_def.h"
+
+1507497317 d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\inc\usbd_core.h
+	"usbd_conf.h"
+	"usbd_def.h"
+	"usbd_ioreq.h"
+	"usbd_ctlreq.h"
+
+1507497317 d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\inc\usbd_ctlreq.h
+	"usbd_def.h"
+
+1509570997 d:\stm32\mxtest\123text\mxtest\inc\usbd_desc.h
+	"usbd_def.h"
+
+1507497317 source:d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\src\usbd_core.c
+	"usbd_core.h"
+
+1507497317 source:d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\src\usbd_ctlreq.c
+	"usbd_ctlreq.h"
+	"usbd_ioreq.h"
+
+1507497317 source:d:\stm32\mxtest\123text\mxtest\middlewares\st\stm32_usb_device_library\core\src\usbd_ioreq.c
+	"usbd_ioreq.h"
+
+1509573313 source:d:\stm32\mxtest\123text\mxtest\src\main.c
+	"main.h"
+	"stm32f1xx_hal.h"
+	"usb_device.h"
+
+1509570996 d:\stm32\mxtest\123text\mxtest\inc\usb_device.h
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+	"usbd_def.h"
+
+1509570998 source:d:\stm32\mxtest\123text\mxtest\src\stm32f1xx_hal_msp.c
+	"stm32f1xx_hal.h"
+
+1509570997 source:d:\stm32\mxtest\123text\mxtest\src\stm32f1xx_it.c
+	"stm32f1xx_hal.h"
+	"stm32f1xx.h"
+	"stm32f1xx_it.h"
+
+1509570998 d:\stm32\mxtest\123text\mxtest\inc\stm32f1xx_it.h
+	"stm32f1xx_hal.h"
+	"main.h"
+
+1507497313 source:d:\stm32\mxtest\123text\mxtest\src\system_stm32f1xx.c
+	"stm32f1xx.h"
+
+1509570996 source:d:\stm32\mxtest\123text\mxtest\src\usb_device.c
+	"usb_device.h"
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_customhid.h"
+	"usbd_custom_hid_if.h"
+
+1509570997 d:\stm32\mxtest\123text\mxtest\inc\usbd_custom_hid_if.h
+	"usbd_customhid.h"
+
+1509570997 source:d:\stm32\mxtest\123text\mxtest\src\usbd_conf.c
+	"stm32f1xx.h"
+	"stm32f1xx_hal.h"
+	"usbd_def.h"
+	"usbd_core.h"
+	"usbd_customhid.h"
+
+1509634521 source:d:\stm32\mxtest\123text\mxtest\src\usbd_custom_hid_if.c
+	"usbd_custom_hid_if.h"
+
+1509639980 source:d:\stm32\mxtest\123text\mxtest\src\usbd_desc.c
+	"usbd_core.h"
+	"usbd_desc.h"
+	"usbd_conf.h"
+
+1507497313 source:d:\stm32\mxtest\123text\mxtest\startup\startup_stm32f103x6.s
+
